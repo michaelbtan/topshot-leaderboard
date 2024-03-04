@@ -38,7 +38,7 @@ export default function Home() {
           In Airdrop 1, users earned STRATs based on signing up, buying items,
           and participating in a scavenger hunt. Additionally, certain actions
           boosted your points. @everyone who has signed up also has 50 STRATs
-          even if you aren't on the leaderboard! If you aren't signed up for
+          even if you arent on the leaderboard! If you arent signed up for
           Mercata yet you are still eligible for Airdrop 1 and the future
           airdrops. Claim Your STRATs:{" "}
           <a
