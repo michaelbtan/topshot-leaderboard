@@ -33,7 +33,8 @@ export default function Home() {
         <h1 className="text-3xl md:text-4xl font-bold animate-bounce">
           BlockApps Airdrop 1 🚀
         </h1>
-        <h2 className="text-base mt-4">1pt = 1 strat</h2>
+      <div className="z-10 max-w-5xl w-full overflow-x-auto px-4 md:px-0">
+        <h2 className="text-base mt-4 text-center">1pt = 1 strat</h2>
         <p className="p-4 md:p-8">
           In Airdrop 1, users earned STRATs based on signing up, buying items,
           and participating in a scavenger hunt. Additionally, certain actions
@@ -50,7 +51,8 @@ export default function Home() {
           STRAT Airdrop 1 has concluded. Stay tuned for the announcement of
           Airdrop 2. In the meantime, sign up to claim your STRATs!
         </p>
-        <p className="px-4 md:px-8">Airdrop 2 Details coming soon..</p>
+        <p className="mb-6 px-4 md:px-8">Airdrop 2 Details coming soon..</p>
+        </div>
         <div className="z-10 max-w-5xl w-full overflow-x-auto px-4 md:px-0">
           <div className="inline-block min-w-full overflow-hidden align-middle">
             <Table>
