@@ -37,7 +37,6 @@ const data = [
   { id: 24, name: "td808486", strats: 50 },
   { id: 25, name: "tetrislblock", strats: 50 },
   { id: 26, name: "who_dat", strats: 50 },
-  { id: 27, name: "jwilbur", strats: 0 }
 ];
 
 export default function Home() {
