@@ -62,7 +62,7 @@ export default function Home() {
             className="underline "
             href="https://marketplace.mercata.blockapps.net"
           >
-            https://marketplace.mercata.blockapps.net/marketplace/
+            https://marketplace.mercata.blockapps.net
           </a>{" "}
           STRAT Airdrop 1 has concluded. Stay tuned for the announcement of
           Airdrop 2. In the meantime, sign up to claim your STRATs!
