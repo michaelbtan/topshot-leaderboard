@@ -60,7 +60,7 @@ export default function Home() {
           airdrops. Claim Your STRATs:{" "}
           <a
             className="underline "
-            href="https://marketplace.mercata.blockapps.net/marketplace/"
+            href="https://marketplace.mercata.blockapps.net"
           >
             https://marketplace.mercata.blockapps.net/marketplace/
           </a>{" "}
